@@ -1,8 +1,8 @@
 # Bank_Client_Subscription
 ## Description
-Exploratory data analysis on the bank-client subscriptions from the file Bank-additional-full.csv.
-The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. 
-Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+Exploratory data analysis on the bank-client subscriptions from the file Bank-additional-full.csv.\n
+The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls.\n 
+Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.\n
 # Details
 ## Data Loading
 ● Created a dataset in form of a csv file, read it using ‘csv_read()’ and
