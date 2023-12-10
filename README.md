@@ -86,7 +86,7 @@ variables as numerical values in a machine learning model.) (pd.get_dummies())
  Note: In our example, as we will not be running a machine learning model,
 we have only performed few basic data manipulation techniques generally
 done before running a model.
-#Observed Outcome:
+# Observed Outcome:
 Through the analysis we have made the following conclusions:
  Data analysis on the basis of job factor shows that people who are retired
 are more likely to take a term deposit than others and blue-collar workers
